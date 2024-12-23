@@ -1,0 +1,12 @@
+
+body {
+  text-align: center;
+  font-family: 'Courier New, monospace';
+  background: rgb(175, 212, 241);
+  color: rgb(0, 50, 124);
+  background-image: url("https://static.vecteezy.com/system/resources/previews/025/464/698/non_2x/seamless-pattern-white-contour-jellyfish-on-a-blue-background-print-textile-vector.jpg");
+  img {
+    border-radius: 8px;
+    transform: scale(0.5);
+  }
+  }
